@@ -85,26 +85,43 @@ modalCloseButton.forEach((modalClose) => {
 });
 /*==================== PORTFOLIO SWIPER  ====================*/
 
-const swiper = new Swiper('.portfolio__container', {
+const swiperPortfolio = new Swiper(".portfolio__container", {
   // Optional parameters
   cssMode: true,
   loop: true,
 
   // If we need pagination
   pagination: {
-    el: '.swiper-pagination',
-    clickable: true
+    el: ".swiper-pagination",
+    clickable: true,
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
   },
-
 });
 /*==================== TESTIMONIAL ====================*/
 
+const swiperTestimonial = new Swiper(".testimonial__container", {
+  // Optional parameters
+  loop: true,
+  grabCursor: true,
+  spaceBetween: 48,
+
+  // If we need pagination
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+    dynamicBullets: true,
+  },
+  breakpoints: {
+    568: {
+      slidesPreview: 2,
+    },
+  },
+});
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
 /*==================== CHANGE BACKGROUND HEADER ====================*/
