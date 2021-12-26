@@ -1140,6 +1140,7 @@ img {
   .footer__links {
     flex-direction: row;
     column-gap: 2rem;
+    color: #fff;
   }
   .footer__socials {
     justify-self: flex-end;
