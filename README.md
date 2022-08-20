@@ -19,3 +19,12 @@ Javascript, HTML, CSS, Angular, React js, React Native, Node js, Next js, Flutte
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-Naeem-code&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Naeem-code&show_icons=true&theme=radical&layout=compact)](https://github.com/Hassan-Naeem-code/github-readme-stats)
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Highly Scalable Mobile Apps
+
+🧠 I'm currently learning Data Science and Artificial Intelligence
+
+👯‍♀️ I'm looking to collaborate on NPM community and other open source software companies
+
+💬 Ask me about Javascript
