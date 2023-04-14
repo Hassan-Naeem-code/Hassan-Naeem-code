@@ -1,7 +1,4 @@
-Hassan-Naeem-code/README.md
-Hey Guys 👋, I'm Muhammad Hassan Naeem.!
-
-Hey Guys 👋, I'm Muhammad Hassan Naeem, An Graduate Computer Science student having skills and expertise in Javascript (Vanilla || ejs || ecmascript), React Native and Web and server development through (Angular || React js || Next js & Node js) 💫. Currently I'm the head of the Mern Stack Teaching Faculty In massive mass training Programming that caters to Students from Pakistan ⚡️. Right now I'm working to become a Full Stack Developer. 💻👨‍💻
+Hey Guys 👋, I'm Muhammad Hassan Naeem, An Graduate Computer Science student having skills and expertise in Javascript (Vanilla || ejs || ecmascript), React Native and Web and server development through (Angular || React js || Next js & Node js) 💫. Right now I'm working to become a Full Stack Developer. 💻👨‍💻
 
 ![Logo](https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31)
 
