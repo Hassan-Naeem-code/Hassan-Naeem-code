@@ -11,8 +11,13 @@ HTML, CSS, Javascript, Typescript, React js, React Native, Node js, Next js, Pyt
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-Naeem-code&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Naeem-code&show_icons=true&theme=radical&layout=compact)](https://github.com/Hassan-Naeem-code/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Hassan-Naeem-code&show_icons=true&locale=en&layout=compact" alt="Hassan-Naeem-code" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hassan-Naeem-code&show_icons=true&locale=en&count_private=true" alt="Hassan-Naeem-code" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Naeem-code&" alt="Hassan-Naeem-code" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hassan-Naeem-code" alt="Hassan-Naeem-code" /></a> </p>
+
 
 ## Other Common Github Profile Sections
 
