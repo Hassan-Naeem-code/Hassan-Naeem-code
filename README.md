@@ -2,7 +2,6 @@ Hey there 👋, I'm Muhammad Hassan Naeem, a graduate student in computer scienc
 
 ## 🔗 Connect with me
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://creativekhanwebsiteskill.web.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muhammadhassannaeem/)
 
 ## 🛠 Skills
