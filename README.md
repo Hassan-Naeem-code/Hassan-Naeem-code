@@ -1,4 +1,4 @@
-Hey there 👋, I'm Muhammad Hassan Naeem, a graduate student in computer science, and I have experience and skills in Javascript, Vanilla Js, ECMAScript, Typescript, React Native, and Web and server development using (Angular || React js || Next js && Node js). I'm now pursuing a career as a full-stack developer. 💻👨‍💻
+Hey there 👋, I'm Muhammad Hassan Naeem, a graduate student in computer science, and I have experience and skills in Javascript, Vanilla Js, ECMAScript, Typescript, Python, Django, Numpy, Pandas, React Native, and Web and server development using (Angular || React js || Next js && Node js). I'm now pursuing a career as a full-stack developer. 💻👨‍💻
 
 ## 🔗 Connect with me
 
