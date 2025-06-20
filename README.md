@@ -1,4 +1,4 @@
-Hey there 👋, I'm Muhammad Hassan Naeem (SWE), and I have experience and skills in Javascript, Vanilla Js, ECMAScript, Typescript, React Native, Python, LLM, Generative AI, Agentic AI, Django, Numpy, Pandas, and Web and server development using (Angular || React js || Next js && Node js). I'm now pursuing a career as a Machine Learning Engineer. 💻👨‍💻
+Hey there 👋, I'm Muhammad Hassan Naeem (SWE), and I have experience and skills in Javascript, Vanilla Js, ECMAScript, Typescript, React Native, Python, LLM, Generative AI, Agentic AI, Django, Numpy, Pandas, and Web and server development using (Angular || React js || Next js && Node js). I'm now pursuing a career as a AI Engineer. 💻👨‍💻
 
 ## 🔗 Connect with me
 
@@ -23,8 +23,8 @@ Hey there 👋, I'm Muhammad Hassan Naeem (SWE), and I have experience and skill
 
 👩‍💻 I'm currently working on Highly Scalable Mobile Apps
 
-🧠 I'm currently learning Data Science and Artificial Intelligence
+🧠 I'm currently learning more in Data Science and Artificial Intelligence
 
 👯‍♀️ I'm looking to collaborate on NPM community and other open source projects
 
-💬 Ask me about Javascript
+💬 Ask me about Javascript & Python
