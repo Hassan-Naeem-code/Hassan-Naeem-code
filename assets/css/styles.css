@@ -1172,6 +1172,47 @@ button {
   .cursor-glow { display: none; }
 }
 
+/* Tablet-portrait tweak (iPad-ish) */
+@media (min-width: 640px) and (max-width: 900px) {
+  .skills__grid,
+  .projects__grid,
+  .education__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .about__stats {
+    padding: 1.25rem;
+  }
+}
+
+/* Ultra-narrow (Galaxy Fold folded, tiny phones) */
+@media (max-width: 360px) {
+  .container { padding: 0 1rem; }
+  .hero__title { font-size: 2rem; }
+  .about__stats {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    padding: 0.9rem;
+  }
+  .stat strong { font-size: 1.25rem; }
+  .about__code-body { font-size: 0.72rem; padding: 1rem; }
+  .timeline { padding-left: 1.5rem; }
+  .timeline__dot { left: -1.5rem; width: 14px; height: 14px; }
+  .contact__card { padding: 2rem 1rem; }
+  .nav__logo { font-size: 1.1rem; }
+}
+
+/* WCAG 2.5.5 — ensure icon-only touch targets are ≥44×44 */
+.hero__socials a,
+.contact__socials a,
+.project__links a,
+.nav__toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+}
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   *,
