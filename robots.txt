@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://muhammad-hassan-naeem.surge.sh/sitemap.xml
+Sitemap: https://hassan-naeem.vercel.app/sitemap.xml
