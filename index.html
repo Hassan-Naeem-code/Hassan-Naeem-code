@@ -23,7 +23,7 @@
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://unicons.iconscout.com; font-src 'self' https://unicons.iconscout.com; img-src 'self' data: https:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';"
     />
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
     <meta
@@ -58,21 +58,14 @@
     <link rel="apple-touch-icon" href="./assets/img/perfil.png" />
 
     <!-- Performance: preconnect -->
-    <link rel="preconnect" href="https://unicons.iconscout.com" />
     <link rel="dns-prefetch" href="https://github.com" />
 
     <!-- Fonts are self-hosted in assets/fonts (GDPR-clean, no Google) -->
     <link rel="preload" as="font" type="font/woff2" href="./assets/fonts/inter-500.woff2" crossorigin />
     <link rel="preload" as="font" type="font/woff2" href="./assets/fonts/space-grotesk-700.woff2" crossorigin />
 
-    <!-- Icons (SRI-protected) -->
-    <link
-      rel="stylesheet"
-      href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
-      integrity="sha384-2mD18YQDRE2gaMLgbA4j3ZoBRBOBtavcut3Cmbu/wEzjyRUaazYR4bXTTgsoz5gU"
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+    <!-- Icons (self-hosted) -->
+    <link rel="stylesheet" href="./assets/css/unicons.css" />
 
     <!-- Styles -->
     <link rel="stylesheet" href="./assets/css/styles.css" />
@@ -160,14 +153,14 @@
             target="_blank" rel="noopener noreferrer"
             class="btn btn--sm btn--outline"
           >
-            Resume <i class="uil uil-external-link-alt"></i>
+            Resume <i class="uil uil-external-link-alt" aria-hidden="true"></i>
           </a>
           <button
             class="nav__toggle"
             id="nav-toggle"
             aria-label="Open menu"
           >
-            <i class="uil uil-bars"></i>
+            <i class="uil uil-bars" aria-hidden="true"></i>
           </button>
         </div>
       </div>
@@ -201,10 +194,10 @@
 
           <div class="hero__ctas" data-reveal>
             <a href="#projects" class="btn btn--primary">
-              View my work <i class="uil uil-arrow-right"></i>
+              View my work <i class="uil uil-arrow-right" aria-hidden="true"></i>
             </a>
             <a href="#contact" class="btn btn--ghost">
-              <i class="uil uil-envelope"></i> Get in touch
+              <i class="uil uil-envelope" aria-hidden="true"></i> Get in touch
             </a>
           </div>
 
@@ -213,32 +206,32 @@
               href="https://github.com/Hassan-Naeem-code"
               target="_blank" rel="noopener noreferrer"
               aria-label="GitHub"
-              ><i class="uil uil-github-alt"></i
+              ><i class="uil uil-github-alt" aria-hidden="true"></i
             ></a>
             <a
               href="https://www.linkedin.com/in/muhammadhassannaeem"
               target="_blank" rel="noopener noreferrer"
               aria-label="LinkedIn"
-              ><i class="uil uil-linkedin"></i
+              ><i class="uil uil-linkedin" aria-hidden="true"></i
             ></a>
             <a
               href="https://leetcode.com/u/hassansolves"
               target="_blank" rel="noopener noreferrer"
               aria-label="LeetCode"
-              ><i class="uil uil-trophy"></i
+              ><i class="uil uil-trophy" aria-hidden="true"></i
             ></a>
             <a
               href="https://stackoverflow.com/users/17322639/muhammad-hassan-naeem"
               target="_blank" rel="noopener noreferrer"
               aria-label="Stack Overflow"
-              ><i class="uil uil-comment-alt-question"></i
+              ><i class="uil uil-comment-alt-question" aria-hidden="true"></i
             ></a>
             <a
               href="#"
               data-email="aGFzc2FuX3NjaWVudGlzdF9pbmZvQHlhaG9vLmNvbQ=="
               class="email-link"
               aria-label="Email"
-              ><i class="uil uil-envelope"></i
+              ><i class="uil uil-envelope" aria-hidden="true"></i
             ></a>
           </div>
         </div>
@@ -349,7 +342,7 @@
                 target="_blank" rel="noopener noreferrer"
                 class="btn btn--primary"
               >
-                Download Resume <i class="uil uil-file-download-alt"></i>
+                Download Resume <i class="uil uil-file-download-alt" aria-hidden="true"></i>
               </a>
             </div>
           </div>
@@ -368,7 +361,7 @@
           <div class="skills__grid">
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-robot"></i>
+                <i class="uil uil-robot" aria-hidden="true"></i>
               </div>
               <h3>AI / ML</h3>
               <div class="skill-card__chips">
@@ -381,7 +374,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-cube"></i>
+                <i class="uil uil-cube" aria-hidden="true"></i>
               </div>
               <h3>Agentic &amp; LLM</h3>
               <div class="skill-card__chips">
@@ -393,7 +386,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-brackets-curly"></i>
+                <i class="uil uil-brackets-curly" aria-hidden="true"></i>
               </div>
               <h3>Languages</h3>
               <div class="skill-card__chips">
@@ -404,7 +397,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-desktop"></i>
+                <i class="uil uil-desktop" aria-hidden="true"></i>
               </div>
               <h3>Frontend</h3>
               <div class="skill-card__chips">
@@ -416,7 +409,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-server-network"></i>
+                <i class="uil uil-server-network" aria-hidden="true"></i>
               </div>
               <h3>Backend</h3>
               <div class="skill-card__chips">
@@ -429,7 +422,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-cloud-computing"></i>
+                <i class="uil uil-cloud-computing" aria-hidden="true"></i>
               </div>
               <h3>Cloud &amp; DevOps</h3>
               <div class="skill-card__chips">
@@ -441,7 +434,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-database"></i>
+                <i class="uil uil-database" aria-hidden="true"></i>
               </div>
               <h3>Databases</h3>
               <div class="skill-card__chips">
@@ -452,7 +445,7 @@
 
             <div class="skill-card" data-reveal>
               <div class="skill-card__icon">
-                <i class="uil uil-setting"></i>
+                <i class="uil uil-setting" aria-hidden="true"></i>
               </div>
               <h3>Tools</h3>
               <div class="skill-card__chips">
@@ -570,7 +563,7 @@
           <div class="projects__grid">
             <article class="project" data-reveal>
               <div class="project__head">
-                <i class="uil uil-estate project__icon"></i>
+                <i class="uil uil-estate project__icon" aria-hidden="true"></i>
                 <span class="project__badge">Client · AI/ML</span>
               </div>
               <h3>Peekly · Real Estate AR/AI</h3>
@@ -591,7 +584,7 @@
 
             <article class="project" data-reveal>
               <div class="project__head">
-                <i class="uil uil-medical-square project__icon"></i>
+                <i class="uil uil-medical-square project__icon" aria-hidden="true"></i>
                 <span class="project__badge">Client · HIPAA</span>
               </div>
               <h3>Hospital Automation · Strealth</h3>
@@ -612,13 +605,13 @@
 
             <article class="project" data-reveal>
               <div class="project__head">
-                <i class="uil uil-ruler-combined project__icon"></i>
+                <i class="uil uil-ruler-combined project__icon" aria-hidden="true"></i>
                 <div class="project__links">
                   <a
                     href="https://github.com/Hassan-Naeem-code/Body-Measurement"
                     target="_blank" rel="noopener noreferrer"
                     aria-label="GitHub"
-                    ><i class="uil uil-github-alt"></i
+                    ><i class="uil uil-github-alt" aria-hidden="true"></i
                   ></a>
                 </div>
               </div>
@@ -634,13 +627,13 @@
 
             <article class="project" data-reveal>
               <div class="project__head">
-                <i class="uil uil-graduation-cap project__icon"></i>
+                <i class="uil uil-graduation-cap project__icon" aria-hidden="true"></i>
                 <div class="project__links">
                   <a
                     href="https://github.com/Hassan-Naeem-code/PHD-Radar"
                     target="_blank" rel="noopener noreferrer"
                     aria-label="GitHub"
-                    ><i class="uil uil-github-alt"></i
+                    ><i class="uil uil-github-alt" aria-hidden="true"></i
                   ></a>
                 </div>
               </div>
@@ -663,7 +656,7 @@
               class="btn btn--ghost"
             >
               See all repositories
-              <i class="uil uil-arrow-right"></i>
+              <i class="uil uil-arrow-right" aria-hidden="true"></i>
             </a>
           </div>
         </div>
@@ -681,7 +674,7 @@
           <div class="education__grid">
             <article class="education__card" data-reveal>
               <div class="education__icon">
-                <i class="uil uil-graduation-cap"></i>
+                <i class="uil uil-graduation-cap" aria-hidden="true"></i>
               </div>
               <div class="education__content">
                 <h3>M.S. · Computer Science</h3>
@@ -691,7 +684,7 @@
 
             <article class="education__card" data-reveal>
               <div class="education__icon">
-                <i class="uil uil-university"></i>
+                <i class="uil uil-university" aria-hidden="true"></i>
               </div>
               <div class="education__content">
                 <h3>B.S. · Computer Science</h3>
@@ -723,7 +716,7 @@
                 data-email="aGFzc2FuX3NjaWVudGlzdF9pbmZvQHlhaG9vLmNvbQ=="
                 class="btn btn--primary email-link"
               >
-                <i class="uil uil-envelope"></i>
+                <i class="uil uil-envelope" aria-hidden="true"></i>
                 <span class="email-link__text">Email me</span>
               </a>
               <a
@@ -731,27 +724,27 @@
                 target="_blank" rel="noopener noreferrer"
                 class="btn btn--ghost"
               >
-                <i class="uil uil-linkedin"></i> Message on LinkedIn
+                <i class="uil uil-linkedin" aria-hidden="true"></i> Message on LinkedIn
               </a>
             </div>
             <div class="contact__socials">
               <a href="https://github.com/Hassan-Naeem-code" target="_blank" rel="noopener noreferrer"
-                ><i class="uil uil-github-alt"></i
+                ><i class="uil uil-github-alt" aria-hidden="true"></i
               ></a>
               <a
                 href="https://www.linkedin.com/in/muhammadhassannaeem"
                 target="_blank" rel="noopener noreferrer"
-                ><i class="uil uil-linkedin"></i
+                ><i class="uil uil-linkedin" aria-hidden="true"></i
               ></a>
               <a
                 href="https://leetcode.com/u/hassansolves"
                 target="_blank" rel="noopener noreferrer"
-                ><i class="uil uil-trophy"></i
+                ><i class="uil uil-trophy" aria-hidden="true"></i
               ></a>
               <a
                 href="https://stackoverflow.com/users/17322639/muhammad-hassan-naeem"
                 target="_blank" rel="noopener noreferrer"
-                ><i class="uil uil-comment-alt-question"></i
+                ><i class="uil uil-comment-alt-question" aria-hidden="true"></i
               ></a>
             </div>
           </div>
@@ -777,7 +770,7 @@
 
     <!-- Back to top -->
     <a href="#home" class="to-top" id="to-top" aria-label="Back to top">
-      <i class="uil uil-arrow-up"></i>
+      <i class="uil uil-arrow-up" aria-hidden="true"></i>
     </a>
 
     <script src="./assets/js/main.js"></script>
