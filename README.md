@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <div align="center">
 
-<a href="https://hassan-naeem.vercel.app/">
+<a href="https://hassan-naeem.com/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;Software+Engineer+%E2%9A%A1;Aspiring+AI+Engineer+%F0%9F%A4%96;Full-Stack+%7C+Mobile+%7C+GenAI" alt="Typing SVG" />
 </a>
 
 <br>
 
-<a href="https://hassan-naeem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://hassan-naeem.com/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammadhassannaeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hassan_scientist_info@yahoo.com"><img src="https://img.shields.io/badge/Email-7B1FA2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://leetcode.com/u/hassansolves"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -207,7 +207,7 @@ I'm open to **AI Engineer**, **Full-Stack**, and **Mobile** opportunities — fu
 <a href="https://www.linkedin.com/in/muhammadhassannaeem">
   <img src="https://img.shields.io/badge/💼%20Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://hassan-naeem.vercel.app/">
+<a href="https://hassan-naeem.com/">
   <img src="https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-6E40C9?style=for-the-badge&logoColor=white" />
 </a>
 
