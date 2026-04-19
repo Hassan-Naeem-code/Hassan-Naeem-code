@@ -17,21 +17,15 @@
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://unicons.iconscout.com; font-src 'self' https://unicons.iconscout.com; img-src 'self' data: https:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';"
     />
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
 
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="./assets/img/perfil.png" />
 
-    <!-- Icons -->
-    <link
-      rel="stylesheet"
-      href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
-      integrity="sha384-2mD18YQDRE2gaMLgbA4j3ZoBRBOBtavcut3Cmbu/wEzjyRUaazYR4bXTTgsoz5gU"
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+    <!-- Icons (self-hosted) -->
+    <link rel="stylesheet" href="./assets/css/unicons.css" />
 
     <!-- Styles -->
     <link rel="stylesheet" href="./assets/css/styles.css" />
@@ -98,7 +92,7 @@
 
     <main class="legal">
       <a href="./index.html" class="legal__back">
-        <i class="uil uil-arrow-left"></i> Back to portfolio
+        <i class="uil uil-arrow-left" aria-hidden="true"></i> Back to portfolio
       </a>
 
       <h1>Privacy Policy</h1>
@@ -130,12 +124,9 @@
 
       <h2>Third-party resources</h2>
       <p>
-        This site loads a small stylesheet of icons from
-        <code>unicons.iconscout.com</code> over HTTPS, protected by
-        Subresource Integrity. Your browser makes a request to that CDN
-        which logs standard access information. No other third parties are
-        contacted. Fonts are self-hosted on this domain, so no requests are
-        made to Google Fonts or any other font CDN.
+        All assets (icons, fonts, stylesheets, scripts) are self-hosted on
+        this domain. Your browser does not contact any third-party CDN
+        while loading this site.
       </p>
 
       <h2>Your rights (GDPR / CCPA)</h2>
