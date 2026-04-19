@@ -24,7 +24,7 @@
 ```yaml
 name: Hassan Naeem
 role: Software Engineer → AI Engineer
-location: Pakistan 🌍
+location: USA 🇺🇸
 stack:
   frontend:  [React, React Native, Next.js, Angular, TypeScript]
   backend:   [Node.js, Django, Flask, Express, Spring]
