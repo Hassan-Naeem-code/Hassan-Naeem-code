@@ -167,15 +167,19 @@ fun_fact:    "I speak fluent JavaScript, Python — and chai ☕"
 
 ### 🌟 Featured Projects
 
-> _Swap these for your real repo names — the cards auto-render from GitHub._
-
 <div align="center">
 
-<a href="https://github.com/Hassan-Naeem-code/Hassan-Naeem-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Hassan-Naeem-code&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+<a href="https://github.com/Hassan-Naeem-code/Body-Measurement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Body-Measurement&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
-<a href="https://muhammad-hassan-naeem.surge.sh/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+<a href="https://github.com/Hassan-Naeem-code/PHD-Radar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=PHD-Radar&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Code-Like-Basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Code-Like-Basics&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Actus-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Actus-project&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 </div>
