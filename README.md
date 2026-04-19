@@ -178,16 +178,6 @@ fun_fact:    "I speak fluent JavaScript, Python — and chai ☕"
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hassan-Naeem-code&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 💭 Dev Quote
 
 <p align="center">
