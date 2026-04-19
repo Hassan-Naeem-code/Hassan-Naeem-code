@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6e40c9"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <text x="32" y="32" text-anchor="middle" dominant-baseline="central"
+        font-family="-apple-system, system-ui, 'Segoe UI', Roboto, 'Space Grotesk', sans-serif"
+        font-weight="800" font-size="30" fill="#ffffff" letter-spacing="-1.5">HN</text>
+</svg>
