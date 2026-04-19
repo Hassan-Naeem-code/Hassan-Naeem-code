@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://hassan-naeem.com/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;Software+Engineer+%E2%9A%A1;Aspiring+AI+Engineer+%F0%9F%A4%96;Full-Stack+%7C+Mobile+%7C+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;LLMs+%7C+Agents+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br>
@@ -27,22 +27,21 @@
 
 ```yaml
 name: Hassan Naeem
-role: Software Engineer → AI Engineer
-location: USA 🇺🇸
-experience: 5+ years building web, mobile & AI-powered products
+role: AI/ML Engineer · Full-Stack Engineer
+location: Michigan, USA 🇺🇸 (open to relocation)
+experience: 5+ years shipping production AI, web & mobile products
+verticals: [HR Tech, Healthcare, Real Estate, E-Commerce]
 stack:
-  frontend:  [React, React Native, Next.js, Angular, TypeScript]
-  backend:   [Node.js, Django, Flask, Express, Spring]
-  ai:        [LLMs, Generative AI, Agentic AI, RAG, Python]
-  data:      [NumPy, Pandas, PostgreSQL, MongoDB, Redis]
-  devops:    [AWS, GCP, Docker, Kubernetes, CI/CD]
+  ai:        [LangChain, OpenAI, Claude API, Vertex AI, HuggingFace, RAG]
+  languages: [Python, TypeScript, JavaScript (ES6+), SQL]
+  frontend:  [React, Next.js, React Native, Redux, GraphQL, Tailwind]
+  backend:   [Node.js, Django, FastAPI, Socket.io, Redis]
+  cloud:     [AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, Terraform]
+  data:      [PostgreSQL, MongoDB, Firebase, MySQL]
 currently:
-  building:  "Highly scalable mobile apps"
-  learning:  "Data Science, ML system design, Agentic AI"
-  exploring: "RAG pipelines, LLM orchestration, multi-agent systems"
-  open_to:   "AI Engineer / Full-Stack / Mobile roles & freelance"
-ask_me_about: [JavaScript, Python, React Native, GenAI, System Design]
-fun_fact:    "I speak fluent JavaScript, Python — and chai ☕"
+  building:  "Production LLM agents & agentic workflows"
+  open_to:   "AI/ML & Full-Stack roles · relocation OK"
+ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 ```
 
 ---
@@ -197,7 +196,7 @@ fun_fact:    "I speak fluent JavaScript, Python — and chai ☕"
 
 <div align="center">
 
-I'm open to **AI Engineer**, **Full-Stack**, and **Mobile** opportunities — full-time, contract, or freelance. If you're shipping something interesting in GenAI, agentic systems, or product engineering, I'd love to hear from you.
+I'm open to **AI/ML Engineer**, **Full-Stack**, and **Mobile** opportunities — full-time, contract, or freelance (open to relocation). If you're shipping something interesting in GenAI, agentic systems, or product engineering, I'd love to hear from you.
 
 <br>
 
