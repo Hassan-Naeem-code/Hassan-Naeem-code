@@ -26,5 +26,5 @@ node_modules/
 dist/
 build/
 
-# Surge
-.surgeignore
+# Vercel
+.vercel/
