@@ -179,11 +179,13 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 
 ---
 
-### ✍️ Recent Gists — take what's useful
+### ✍️ Writing & open source
+
+**📝 Latest article** → [**I built a browser agent that plays a game by looking at pixels**](https://dev.to/hassannaeem/i-built-a-browser-agent-that-plays-a-game-by-looking-at-pixels-3l86) — walking through nested iframe traversal, humanlike mouse drags, and reading a canvas with pixels.
 
 Short, copy-pasteable code I've shared publicly. Pull what you need:
 
-- 🧠 **[Minimal RAG pipeline in ~80 lines](https://gist.github.com/Hassan-Naeem-code/f22285f7d5d590e4bfd233058fddfbc7)** — FAISS + embeddings + Claude, no framework
+- 🧠 **[Minimal RAG pipeline in ~80 lines](https://gist.github.com/Hassan-Naeem-code/f22285f7d5d590e4bfd233058fddfbc7)** — FAISS + embeddings + an LLM, no framework
 - 🤖 **[Agent tool-calling loop from scratch](https://gist.github.com/Hassan-Naeem-code/f265b0ee835d64f61f997b1fa99a8122)** — how agents actually work under the hood
 - 📚 **[RAG chunking strategies that actually work](https://gist.github.com/Hassan-Naeem-code/6906113520019939081256598012b3ed)** — what I've learned building retrieval systems
 - 🎯 **[Prompt engineering patterns I actually use](https://gist.github.com/Hassan-Naeem-code/3b48814f96fa3b2fe22b8ea0aca810b3)** — 12 practical techniques
