@@ -11,13 +11,17 @@
 <a href="https://www.linkedin.com/in/muhammadhassannaeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hassan_scientist_info@yahoo.com"><img src="https://img.shields.io/badge/Email-7B1FA2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://leetcode.com/u/hassansolves"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://gist.github.com/Hassan-Naeem-code"><img src="https://img.shields.io/badge/Gists-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Hassan-Naeem-code&label=Profile+views&color=6E40C9&style=flat" alt="Profile views" />
-<a href="https://github.com/Hassan-Naeem-code?tab=followers"><img src="https://img.shields.io/github/followers/Hassan-Naeem-code?label=Followers&style=flat&color=6E40C9" alt="Followers" /></a>
-<a href="https://github.com/Hassan-Naeem-code?tab=repositories"><img src="https://img.shields.io/github/stars/Hassan-Naeem-code?label=Stars&style=flat&color=6E40C9" alt="Stars" /></a>
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-6E40C9?style=flat" alt="Focus" />
+<a href="https://github.com/Hassan-Naeem-code?tab=followers"><img src="https://img.shields.io/github/followers/Hassan-Naeem-code?label=Followers&style=social" alt="Followers" /></a>
+<a href="https://github.com/Hassan-Naeem-code?tab=repositories"><img src="https://img.shields.io/github/stars/Hassan-Naeem-code?label=Stars&style=social" alt="Stars" /></a>
+
+<br>
+
+<sub><b>🔔 Follow for:</b> LLM / agent build logs · open-source gists on RAG, prompts, Playwright & TS utilities · weekly code drops</sub>
 
 </div>
 
@@ -30,9 +34,9 @@ name: Hassan Naeem
 role: AI/ML Engineer · Full-Stack Engineer
 location: Michigan, USA 🇺🇸 (open to relocation)
 experience: 5+ years shipping production AI, web & mobile products
-verticals: [HR Tech, Healthcare, Real Estate, E-Commerce]
+verticals: [HR Tech, Healthcare, Real Estate, E-Commerce, Logistics]
 stack:
-  ai:        [LangChain, OpenAI, Claude API, Vertex AI, HuggingFace, RAG]
+  ai:        [LangChain, OpenAI, Vertex AI, HuggingFace, RAG, LoRA, Fine-tuning]
   languages: [Python, TypeScript, JavaScript (ES6+), SQL]
   frontend:  [React, Next.js, React Native, Redux, GraphQL, Tailwind]
   backend:   [Node.js, Django, FastAPI, Socket.io, Redis]
@@ -40,6 +44,7 @@ stack:
   data:      [PostgreSQL, MongoDB, Firebase, MySQL]
 currently:
   building:  "Production LLM agents & agentic workflows"
+  writing:   "Gists on RAG, prompt patterns, and browser agents"
   open_to:   "AI/ML & Full-Stack roles · relocation OK"
 ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 ```
@@ -57,7 +62,7 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 - RAG & vector search
 - Agentic AI systems
 - Prompt engineering
-- Model integration (OpenAI, Anthropic, Hugging Face)
+- Model integration (OpenAI, Hugging Face, Vertex AI)
 
 </td>
 <td width="33%" valign="top">
@@ -141,6 +146,58 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 
 ---
 
+### 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Cappy-LLM-Intellegence-Layer&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Body-Measurement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Body-Measurement&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Browser-Operating-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Browser-Operating-Agent&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Inbound-Carier-Sales">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Inbound-Carier-Sales&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Code-Like-Basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Code-Like-Basics&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Hassan-Naeem-code/Machine-Learning-Model-For-Electricity-Estimation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Machine-Learning-Model-For-Electricity-Estimation&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Hassan-Naeem-code?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repositories-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✍️ Recent Gists — take what's useful
+
+Short, copy-pasteable code I've shared publicly. Pull what you need:
+
+- 🧠 **[Minimal RAG pipeline in ~80 lines](https://gist.github.com/Hassan-Naeem-code/f22285f7d5d590e4bfd233058fddfbc7)** — FAISS + embeddings + Claude, no framework
+- 🤖 **[Agent tool-calling loop from scratch](https://gist.github.com/Hassan-Naeem-code/f265b0ee835d64f61f997b1fa99a8122)** — how agents actually work under the hood
+- 📚 **[RAG chunking strategies that actually work](https://gist.github.com/Hassan-Naeem-code/6906113520019939081256598012b3ed)** — what I've learned building retrieval systems
+- 🎯 **[Prompt engineering patterns I actually use](https://gist.github.com/Hassan-Naeem-code/3b48814f96fa3b2fe22b8ea0aca810b3)** — 12 practical techniques
+- ⚖️ **[LLM-as-judge evaluation harness](https://gist.github.com/Hassan-Naeem-code/d72109eb2a27178acd5b7942138d77ea)** — rubric scoring with aggregate metrics
+- 🌐 **[Playwright automation patterns](https://gist.github.com/Hassan-Naeem-code/fe0fabac23ebd584b8af504c20b8fa64)** — nested iframes, humanlike drag, canvas screenshots
+
+<p align="center">
+  <a href="https://gist.github.com/Hassan-Naeem-code">
+    <img src="https://img.shields.io/badge/📝%20All%2020%2B%20gists-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -161,34 +218,6 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Naeem-code&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3" alt="Activity Graph" />
 
 </div>
-
----
-
-### 🌟 Featured Projects
-
-
-<div align="center">
-
-<a href="https://github.com/Hassan-Naeem-code/Body-Measurement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Body-Measurement&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/PHD-Radar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=PHD-Radar&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Code-Like-Basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Code-Like-Basics&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Actus-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Actus-project&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Hassan-Naeem-code?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20repositories-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -214,17 +243,9 @@ I'm open to **AI/ML Engineer**, **Full-Stack**, and **Mobile** opportunities —
 
 ---
 
-### 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
 <div align="center">
 
-<sub>⭐ <b>Thanks for stopping by</b> — if you liked something here, a star on any repo means a lot!</sub>
+<sub>⭐ <b>Thanks for stopping by</b> — if a project or gist was useful, a star or follow means a lot.</sub>
 
 <br>
 
