@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://hassan-naeem.com/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammadhassannaeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/m-hassan-naeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hassan_scientist_info@yahoo.com"><img src="https://img.shields.io/badge/Email-7B1FA2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://leetcode.com/u/hassansolves"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://gist.github.com/Hassan-Naeem-code"><img src="https://img.shields.io/badge/Gists-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -234,7 +234,7 @@ I'm open to **AI/ML Engineer**, **Full-Stack**, and **Mobile** opportunities —
 <a href="mailto:hassan_scientist_info@yahoo.com">
   <img src="https://img.shields.io/badge/📩%20Email%20me-D14836?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/muhammadhassannaeem">
+<a href="https://www.linkedin.com/in/m-hassan-naeem">
   <img src="https://img.shields.io/badge/💼%20Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://hassan-naeem.com/">
