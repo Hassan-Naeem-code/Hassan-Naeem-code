@@ -4,7 +4,7 @@
     Location: Michigan, USA
     Site: https://hassan-naeem.com/
     GitHub: https://github.com/Hassan-Naeem-code
-    LinkedIn: https://www.linkedin.com/in/muhammadhassannaeem
+    LinkedIn: https://www.linkedin.com/in/m-hassan-naeem
     Dev.to: https://dev.to/hassannaeem
 
 /* SITE */
