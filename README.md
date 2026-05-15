@@ -148,28 +148,68 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 
 ### 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Cappy-LLM-Intellegence-Layer&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Body-Measurement">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Body-Measurement&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Browser-Operating-Agent">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Browser-Operating-Agent&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Inbound-Carier-Sales">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Inbound-Carier-Sales&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Code-Like-Basics">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Code-Like-Basics&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
-<a href="https://github.com/Hassan-Naeem-code/Machine-Learning-Model-For-Electricity-Estimation">
-  <img src="https://github-readme-stats-six-pi-90.vercel.app/api/pin/?username=Hassan-Naeem-code&repo=Machine-Learning-Model-For-Electricity-Estimation&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" />
-</a>
+#### 🧠 [Cappy — LLM Intelligence Layer](https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer)
 
-</div>
+LLM intelligence layer combining RAG, multi-hop knowledge graph reasoning, continuous learning, and LoRA / QLoRA fine-tuning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square) ![LoRA](https://img.shields.io/badge/LoRA-blue?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📏 [AI Body Measurement Platform](https://github.com/Hassan-Naeem-code/Body-Measurement)
+
+E-commerce body measurement from a single photo — MediaPipe pose detection extracts 33 landmarks and returns brand-aware size recommendations.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [Browser Operating Agent](https://github.com/Hassan-Naeem-code/Browser-Operating-Agent)
+
+A Python agent that drives its own browser — no DOM shortcuts. Nested iframe traversal, humanlike drag, canvas pixel reading. Walkthrough on [dev.to](https://dev.to/hassannaeem/i-built-a-browser-agent-that-plays-a-game-by-looking-at-pixels-3l86).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) ![PIL](https://img.shields.io/badge/PIL-Imaging-blue?style=flat-square) ![Async](https://img.shields.io/badge/asyncio-async-success?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚚 [HappyRobot Inbound Carrier Sales](https://github.com/Hassan-Naeem-code/Inbound-Carier-Sales)
+
+Production FastAPI service for inbound carrier sales — FMCSA MC verification, negotiation logging. [Deployed on Fly.io](https://happyrobot-inbound.fly.dev/).
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 [CodeLikeBasics](https://github.com/Hassan-Naeem-code/Code-Like-Basics)
+
+Gamified learning platform for 43+ programming languages — XP, knowledge tree, achievements, live coding sandboxes. [Live demo](https://code-like-basics.vercel.app).
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [Per-Asset LightGBM Forecasting](https://github.com/Hassan-Naeem-code/Machine-Learning-Model-For-Electricity-Estimation)
+
+Per-asset LightGBM models forecasting 1–10 step horizons at 15-minute resolution for OHLCV data — training + retraining + evaluation pipeline.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-006aa7?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/ML-Forecasting-FF6F00?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Hassan-Naeem-code?tab=repositories">
@@ -204,8 +244,19 @@ Short, copy-pasteable code I've shared publicly. Pull what you need:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-six-pi-90.vercel.app/api?username=Hassan-Naeem-code&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=20260514" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-six-pi-90.vercel.app/api/top-langs/?username=Hassan-Naeem-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&v=20260514" alt="Top Languages" />
+![Followers](https://img.shields.io/github/followers/Hassan-Naeem-code?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/Hassan-Naeem-code?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&logoColor=white&label=Total%20stars&affiliations=OWNER)
+
+<br><br>
+
+**🛠️ Top Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br><br>
 
