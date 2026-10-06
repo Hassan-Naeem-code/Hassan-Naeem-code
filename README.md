@@ -174,7 +174,7 @@ Research on valence–arousal estimation that **knows when it doesn't know**. De
 
 #### ⚙️ [Neural-Engine — Neural Networks from First Principles](https://github.com/Hassan-Naeem-code/Neural-Engine)
 
-A neural network and autograd engine built in pure Python, with no libraries, growing from base to enterprise. A `Value` graph runs backprop through the chain rule, and `Neuron → Layer → MLP` sits on top. Includes guided lessons, plus gradient checks against numerical slopes and a network that learns XOR.
+A neural network and autograd engine in **~200 lines of pure Python, with no libraries**. A `Value` graph runs backprop through the chain rule, with `Neuron → Layer → MLP` on top, and trains a network to solve XOR. It ships with runnable lessons, gradient checks against numerical slopes, and an [**interactive visual guide**](https://github.com/Hassan-Naeem-code/Neural-Engine/blob/master/docs/guide.html): drag sliders on a neuron, roll a ball down the loss curve, step through backprop, and watch XOR being learned live.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Autograd](https://img.shields.io/badge/Autograd-from_scratch-FF6F00?style=flat-square) ![Backprop](https://img.shields.io/badge/Backpropagation-8957e5?style=flat-square) ![Zero deps](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
