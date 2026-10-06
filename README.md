@@ -170,6 +170,17 @@ Research on valence–arousal estimation that **knows when it doesn't know**. De
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+#### ⚙️ [Neural-Engine — Neural Networks from First Principles](https://github.com/Hassan-Naeem-code/Neural-Engine)
+
+A neural network and autograd engine built in pure Python, with no libraries, growing from base to enterprise. A `Value` graph runs backprop through the chain rule, and `Neuron → Layer → MLP` sits on top. Includes guided lessons, plus gradient checks against numerical slopes and a network that learns XOR.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Autograd](https://img.shields.io/badge/Autograd-from_scratch-FF6F00?style=flat-square) ![Backprop](https://img.shields.io/badge/Backpropagation-8957e5?style=flat-square) ![Zero deps](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🧠 [Cappy — LLM Intelligence Layer](https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer)
