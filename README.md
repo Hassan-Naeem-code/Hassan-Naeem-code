@@ -36,14 +36,14 @@ location: Michigan, USA 🇺🇸 (open to relocation)
 experience: 5+ years shipping production AI, web & mobile products
 verticals: [HR Tech, Healthcare, Real Estate, E-Commerce, Logistics]
 stack:
-  ai:        [LangChain, OpenAI, Vertex AI, HuggingFace, RAG, LoRA, Fine-tuning]
+  ai:        [LangChain, OpenAI, Claude, Vertex AI, PyTorch, HuggingFace, RAG, LoRA, ONNX]
   languages: [Python, TypeScript, JavaScript (ES6+), SQL]
   frontend:  [React, Next.js, React Native, Redux, GraphQL, Tailwind]
   backend:   [Node.js, Django, FastAPI, Socket.io, Redis]
   cloud:     [AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, Terraform]
-  data:      [PostgreSQL, MongoDB, Firebase, MySQL]
+  data:      [PostgreSQL, Supabase, MongoDB, Firebase, MySQL]
 currently:
-  building:  "Production LLM agents & agentic workflows"
+  building:  "Fresh Leads (live SaaS) · uncertainty-aware affect models · LLM agents"
   writing:   "Gists on RAG, prompt patterns, and browser agents"
   open_to:   "AI/ML & Full-Stack roles · relocation OK"
 ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
@@ -149,6 +149,26 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 ### 🌟 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 [Fresh Leads — Verified Local Business Leads](https://www.fresh-leads.io)
+
+Live SaaS that finds local businesses, verifies phones & emails at search time, confirms they're still trading, and scores each one against a buyer playbook. Public API, Stripe billing, required 2FA, 571 passing tests. [Live site](https://www.fresh-leads.io).
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎭 [Calibrated Multimodal Affect Estimation](https://github.com/Hassan-Naeem-code/Emotion-Modelling)
+
+Research on valence–arousal estimation that **knows when it doesn't know**. Deep evidential regression + split conformal on AffectNet (3 seeds): CCC 0.692, ECE 0.011. In-browser ONNX demo that abstains when unsure, and no frames leave the device.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX_Runtime_Web-005CED?style=flat-square&logo=onnx&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Research](https://img.shields.io/badge/Uncertainty-Calibration-8957e5?style=flat-square)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
