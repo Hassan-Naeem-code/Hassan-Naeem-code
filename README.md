@@ -10,6 +10,7 @@
 <a href="https://hassan-naeem.com/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/m-hassan-naeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hassan_scientist_info@yahoo.com"><img src="https://img.shields.io/badge/Email-7B1FA2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="https://hassan-naeem.com/assets/pdf/Hassan_Naeem_AI_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="https://leetcode.com/u/hassansolves"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://gist.github.com/Hassan-Naeem-code"><img src="https://img.shields.io/badge/Gists-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -34,7 +35,7 @@ name: Hassan Naeem
 role: AI/ML Engineer · Full-Stack Engineer
 location: Michigan, USA 🇺🇸 (open to relocation)
 experience: 5+ years shipping production AI, web & mobile products
-verticals: [HR Tech, Healthcare, Real Estate, E-Commerce, Logistics]
+verticals: [Banking & FinTech, HR Tech, Healthcare, Real Estate, E-Commerce, Logistics]
 stack:
   ai:        [LangChain, OpenAI, Claude, Vertex AI, PyTorch, HuggingFace, RAG, LoRA, ONNX]
   languages: [Python, TypeScript, JavaScript (ES6+), SQL]
@@ -43,6 +44,7 @@ stack:
   cloud:     [AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, Terraform]
   data:      [PostgreSQL, Supabase, MongoDB, Firebase, MySQL]
 currently:
+  role:      "Software Engineer @ Ally Financial (Contract) · AI agents & LLM systems"
   building:  "Fresh Leads (live SaaS) · uncertainty-aware affect models · LLM agents"
   writing:   "Gists on RAG, prompt patterns, and browser agents"
   open_to:   "AI/ML & Full-Stack roles · relocation OK"
