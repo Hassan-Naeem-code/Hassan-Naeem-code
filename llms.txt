@@ -1,0 +1,47 @@
+# Hassan Naeem
+
+> AI/ML Engineer and Software Engineer at Ally Financial (contract, Detroit Metro, hybrid, since Aug 2026). 5+ years designing, building, and deploying production AI agents, LLM systems, RAG pipelines, and full-stack web and mobile apps. Based in Michigan, USA.
+
+## Current role
+
+- **Software Engineer (Contract), Ally Financial** (Aug 2026 to present): building AI agents and LLM-based automation for enterprise platforms; backend services and agent orchestration with Python, FastAPI, and AWS, integrating LLM capabilities into production banking infrastructure with a focus on reliability and compliance.
+
+## Experience
+
+- AI/ML Engineer (Contract), Peekly, AI real estate platform (Apr 2025 to Nov 2025): property recommendation engine with Vertex AI and the Claude API; React Native app with 3D/AR.
+- AI/ML Engineer (Contract), healthcare automation platform, stealth startup (Nov 2024 to Apr 2025): HIPAA-compliant clinical platform with AI prescription suggestions and real-time patient–doctor communication.
+- AI/ML & Frontend Engineer, Culturefy Inc. (Mar 2023 to Oct 2024): production AI agent platform (VAPI.ai, OpenAI, AWS Transcribe) for HR, scaled to 100K+ users.
+- Software Engineer, Binate Digital (Jan 2022 to Feb 2023): EV-charging, matchmaking, and marketplace mobile apps.
+- Associate Software Engineer, MiniBig Technologies (Sep 2020 to Dec 2021): e-commerce and logistics platforms.
+
+## Education
+
+- M.S. Computer Science, Concordia University Saint Paul
+- B.S. Computer Science, Sir Syed University of Engineering & Technology
+
+## Skills
+
+- AI/LLM: AI agents, multi-agent orchestration, RAG, LangChain, Claude API, AWS Bedrock, OpenAI, Vertex AI, PyTorch, HuggingFace, LoRA/QLoRA, ONNX, uncertainty quantification
+- Backend: Python, FastAPI, Django, Node.js, GraphQL, REST, WebSockets
+- Frontend: TypeScript, React, Next.js, React Native, Tailwind
+- Cloud: AWS (Lambda, S3, EC2, Bedrock, IAM, CloudWatch), GCP, Docker, Kubernetes, Terraform
+- Data: PostgreSQL, Supabase, MongoDB, Firebase, Redis
+
+## Featured projects
+
+- [Fresh Leads](https://www.fresh-leads.io): live SaaS that verifies local business leads at search time and scores them against a buyer playbook. Next.js 15, TypeScript, Supabase, Stripe.
+- [Calibrated Multimodal Affect Estimation](https://github.com/Hassan-Naeem-code/Emotion-Modelling): uncertainty-aware valence–arousal estimation with deep evidential regression and conformal prediction; on-device ONNX demo.
+- [Neural-Engine](https://github.com/Hassan-Naeem-code/Neural-Engine): neural network and autograd engine in pure Python with lessons and an interactive guide.
+- [Cappy](https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer): LLM intelligence layer with RAG, knowledge graphs, and LoRA fine-tuning.
+- [Browser Operating Agent](https://github.com/Hassan-Naeem-code/Browser-Operating-Agent): Playwright agent that reads canvas pixels and drives a browser like a human.
+- [AI Body Measurement](https://github.com/Hassan-Naeem-code/Body-Measurement): body measurements from one photo with MediaPipe for e-commerce sizing.
+- [CodeLikeBasics](https://code-like-basics.vercel.app): gamified learning platform for 43+ programming languages.
+
+## Links
+
+- Portfolio: https://hassan-naeem.com/
+- Resume (PDF): https://hassan-naeem.com/assets/pdf/Hassan_Naeem_AI_Resume.pdf
+- GitHub: https://github.com/Hassan-Naeem-code
+- LinkedIn: https://www.linkedin.com/in/m-hassan-naeem
+- Writing: https://dev.to/hassannaeem
+- Contact: via LinkedIn or the email on the portfolio

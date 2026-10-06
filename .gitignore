@@ -28,3 +28,6 @@ build/
 
 # Vercel
 .vercel/
+
+# Editable resume sources stay private
+*.docx
