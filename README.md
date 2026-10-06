@@ -299,10 +299,6 @@ Short, copy-pasteable code I've shared publicly. Pull what you need:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Naeem-code&theme=tokyonight&v=20260514" alt="Profile Summary" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Naeem-code&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3" alt="Activity Graph" />
-
 </div>
 
 ---
