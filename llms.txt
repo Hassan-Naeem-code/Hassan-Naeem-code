@@ -30,7 +30,8 @@
 ## Featured projects
 
 - [Fresh Leads](https://www.fresh-leads.io): live SaaS that verifies local business leads at search time and scores them against a buyer playbook. Next.js 15, TypeScript, Supabase, Stripe.
-- [Calibrated Multimodal Affect Estimation](https://github.com/Hassan-Naeem-code/Emotion-Modelling): uncertainty-aware valence–arousal estimation with deep evidential regression and conformal prediction; on-device ONNX demo.
+- [VitaLens](https://hassan-naeem.com/vitalens): live webcam X-ray mirror; a rigged 3D anatomy atlas (BodyParts3D) follows MediaPipe body, face and hand tracking, with posture and joint angles, 9 languages and a Claude photo health check. Next.js 16, three.js, WebGL.
+- [Emotion Modeling](https://hassan-naeem.com/emotion-modeling): uncertainty-aware valence–arousal estimation with deep evidential regression and joint conformal prediction; in-browser ONNX demo ([code](https://github.com/Hassan-Naeem-code/Emotion-Modelling)).
 - [Neural-Engine](https://github.com/Hassan-Naeem-code/Neural-Engine): neural network and autograd engine in pure Python with lessons and an interactive guide.
 - [Cappy](https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer): LLM intelligence layer with RAG, knowledge graphs, and LoRA fine-tuning.
 - [Browser Operating Agent](https://github.com/Hassan-Naeem-code/Browser-Operating-Agent): Playwright agent that reads canvas pixels and drives a browser like a human.

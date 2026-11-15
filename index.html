@@ -39,7 +39,7 @@
     <meta property="og:title" content="Hassan Naeem — AI/ML Engineer at Ally Financial" />
     <meta
       property="og:description"
-      content="AI/ML Engineer at Ally Financial building AI agents and LLM systems. Projects: Fresh Leads, calibrated affect estimation, Neural-Engine, Cappy, and more."
+      content="AI/ML Engineer at Ally Financial building AI agents and LLM systems. Projects: Fresh Leads, VitaLens X-ray mirror, emotion modeling with uncertainty, Neural-Engine, and more."
     />
     <meta property="og:image" content="https://hassan-naeem.com/preview.png" />
     <meta property="og:image:alt" content="Hassan Naeem — AI/ML Engineer portfolio preview" />
@@ -51,7 +51,7 @@
     <meta name="twitter:title" content="Hassan Naeem — AI/ML Engineer at Ally Financial" />
     <meta
       name="twitter:description"
-      content="AI/ML Engineer at Ally Financial building AI agents and LLM systems. Projects: Fresh Leads, calibrated affect estimation, Neural-Engine, Cappy, and more."
+      content="AI/ML Engineer at Ally Financial building AI agents and LLM systems. Projects: Fresh Leads, VitaLens X-ray mirror, emotion modeling with uncertainty, Neural-Engine, and more."
     />
     <meta name="twitter:image" content="https://hassan-naeem.com/preview.png" />
 
@@ -643,8 +643,43 @@
 
             <article class="project" data-reveal>
               <div class="project__head">
+                <i class="uil uil-user-md project__icon" aria-hidden="true"></i>
+                <div class="project__links">
+                  <a
+                    href="/vitalens"
+                    aria-label="Live app"
+                    ><i class="uil uil-external-link-alt" aria-hidden="true"></i
+                  ></a>
+                </div>
+              </div>
+              <h3>VitaLens · Live X-ray Mirror</h3>
+              <p>
+                Point a webcam at yourself and see an anatomical
+                <strong>3D skeleton, organs and vessels</strong> move with you
+                in real time. About 1,200 BodyParts3D parts are rigged to
+                MediaPipe pose, face and hand tracking, with a
+                <strong>perspective-correct head fit</strong>, posture and
+                joint-angle readings, a narrated tour and quiz in
+                <strong>9 languages</strong>, and a Claude photo health
+                check. Tracking runs in a Web Worker, and nothing leaves the
+                device except the photos you choose to send.
+              </p>
+              <div class="project__stack">
+                <span>Next.js 16</span><span>three.js</span
+                ><span>WebGL shaders</span><span>MediaPipe</span
+                ><span>Claude API</span><span>Upstash Redis</span>
+              </div>
+            </article>
+
+            <article class="project" data-reveal>
+              <div class="project__head">
                 <i class="uil uil-smile project__icon" aria-hidden="true"></i>
                 <div class="project__links">
+                  <a
+                    href="/emotion-modeling"
+                    aria-label="Live demo"
+                    ><i class="uil uil-external-link-alt" aria-hidden="true"></i
+                  ></a>
                   <a
                     href="https://github.com/Hassan-Naeem-code/Emotion-Modelling"
                     target="_blank" rel="noopener noreferrer"
@@ -653,14 +688,15 @@
                   ></a>
                 </div>
               </div>
-              <h3>Calibrated Multimodal Affect Estimation</h3>
+              <h3>Emotion Modeling · Knowing When It Doesn't Know</h3>
               <p>
-                Research on valence–arousal estimation that
-                <strong>knows when it doesn't know</strong>. Deep evidential
-                regression and split conformal prediction on AffectNet
-                (3 seeds): <strong>CCC 0.692, ECE 0.011</strong>. Ships an
-                in-browser ONNX demo that abstains when unsure, and no
-                frames leave the device.
+                Valence–arousal estimation from faces that
+                <strong>reports its own uncertainty</strong>. Deep evidential
+                regression on AffectNet (5 seeds, <strong>CCC 0.720</strong>)
+                with a joint conformal score that lifts true 2D coverage from
+                ~85% to <strong>92%</strong> with tighter regions than
+                Bonferroni. The live demo runs the ONNX model in your browser,
+                abstains when unsure, and no frames leave the device.
               </p>
               <div class="project__stack">
                 <span>PyTorch</span><span>Evidential DL</span

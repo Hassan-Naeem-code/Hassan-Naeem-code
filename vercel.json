@@ -1,9 +1,27 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/vitalens",
+      "destination": "https://vitalens-one.vercel.app/vitalens"
+    },
+    {
+      "source": "/vitalens/:path*",
+      "destination": "https://vitalens-one.vercel.app/vitalens/:path*"
+    },
+    {
+      "source": "/emotion-modeling",
+      "destination": "https://va-uncertainty-demo.vercel.app/emotion-modeling"
+    },
+    {
+      "source": "/emotion-modeling/:path*",
+      "destination": "https://va-uncertainty-demo.vercel.app/emotion-modeling/:path*"
+    }
+  ],
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/((?!vitalens|emotion-modeling).*)",
       "headers": [
         {
           "key": "Strict-Transport-Security",
