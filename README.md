@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://hassan-naeem.com/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;LLMs+%7C+Agents+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;AI+Engineer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;LLMs+%7C+Agents+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br>
@@ -32,7 +32,7 @@
 
 ```yaml
 name: Hassan Naeem
-role: AI/ML Engineer · Full-Stack Engineer
+role: AI Engineer · Full-Stack Engineer
 location: Michigan, USA 🇺🇸 (open to relocation)
 experience: 5+ years shipping production AI, web & mobile products
 verticals: [Banking & FinTech, HR Tech, Healthcare, Real Estate, E-Commerce, Logistics]
@@ -163,9 +163,9 @@ Live SaaS that finds local businesses, verifies phones & emails at search time, 
 </td>
 <td width="50%" valign="top">
 
-#### 🎭 [Calibrated Multimodal Affect Estimation](https://github.com/Hassan-Naeem-code/Emotion-Modelling)
+#### 🎭 [Emotion Modeling — Knowing When It Doesn't Know](https://github.com/Hassan-Naeem-code/Emotion-Modelling)
 
-Research on valence–arousal estimation that **knows when it doesn't know**. Deep evidential regression + split conformal on AffectNet (3 seeds): CCC 0.692, ECE 0.011. In-browser ONNX demo that abstains when unsure, and no frames leave the device.
+Valence–arousal estimation from faces that **reports its own uncertainty**. Deep evidential regression on AffectNet (5 seeds, **CCC 0.720**) with a joint conformal score that lifts true 2D coverage from ~85% to **92%** with tighter regions than Bonferroni. [**Live demo**](https://hassan-naeem.com/emotion-modeling) runs the ONNX model in your browser, abstains when unsure, and no frames leave the device.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX_Runtime_Web-005CED?style=flat-square&logo=onnx&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Research](https://img.shields.io/badge/Uncertainty-Calibration-8957e5?style=flat-square)
 
@@ -174,9 +174,20 @@ Research on valence–arousal estimation that **knows when it doesn't know**. De
 <tr>
 <td colspan="2" valign="top">
 
+#### 🩻 [VitaLens — Live X-ray Mirror](https://hassan-naeem.com/vitalens)
+
+Point a webcam at yourself and see an anatomical **3D skeleton, organs and vessels** move with you in real time. About 1,200 BodyParts3D parts are rigged to MediaPipe pose, face and hand tracking, with a perspective-correct head fit, posture and joint-angle readings, a narrated tour and quiz in **9 languages**, and a Claude photo health check. Tracking runs in a Web Worker; nothing leaves the device except photos you choose to send. [**Try it live**](https://hassan-naeem.com/vitalens).
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 #### ⚙️ [Neural-Engine — Neural Networks from First Principles](https://github.com/Hassan-Naeem-code/Neural-Engine)
 
-A neural network and autograd engine in **~200 lines of pure Python, with no libraries**. A `Value` graph runs backprop through the chain rule, with `Neuron → Layer → MLP` on top, and trains a network to solve XOR. It ships with runnable lessons, gradient checks against numerical slopes, and an [**interactive visual guide**](https://github.com/Hassan-Naeem-code/Neural-Engine/blob/master/docs/guide.html): drag sliders on a neuron, roll a ball down the loss curve, step through backprop, and watch XOR being learned live.
+A neural network and autograd engine in **~200 lines of pure Python, with no libraries**. A `Value` graph runs backprop through the chain rule, with `Neuron → Layer → MLP` on top, and trains a network to solve XOR. It ships with runnable lessons, gradient checks against numerical slopes, and an [**interactive visual guide**](https://hassan-naeem-code.github.io/Neural-Engine/guide.html): drag sliders on a neuron, roll a ball down the loss curve, step through backprop, and watch XOR being learned live.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Autograd](https://img.shields.io/badge/Autograd-from_scratch-FF6F00?style=flat-square) ![Backprop](https://img.shields.io/badge/Backpropagation-8957e5?style=flat-square) ![Zero deps](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
@@ -307,7 +318,7 @@ Short, copy-pasteable code I've shared publicly. Pull what you need:
 
 <div align="center">
 
-I'm open to **AI/ML Engineer**, **Full-Stack**, and **Mobile** opportunities — full-time, contract, or freelance (open to relocation). If you're shipping something interesting in GenAI, agentic systems, or product engineering, I'd love to hear from you.
+I'm open to **AI Engineer**, **Full-Stack**, and **Mobile** opportunities — full-time, contract, or freelance (open to relocation). If you're shipping something interesting in GenAI, agentic systems, or product engineering, I'd love to hear from you.
 
 <br>
 

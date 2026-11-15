@@ -1,6 +1,6 @@
 /* TEAM */
     Creator: Muhammad Hassan Naeem
-    Role: AI/ML Engineer · Software Engineer at Ally Financial
+    Role: AI Engineer · Software Engineer at Ally Financial
     Location: Michigan, USA
     Site: https://hassan-naeem.com/
     GitHub: https://github.com/Hassan-Naeem-code
@@ -8,7 +8,7 @@
     Dev.to: https://dev.to/hassannaeem
 
 /* SITE */
-    Last update: 2026/10/05
+    Last update: 2026/11/15
     Standards: HTML5, CSS3, ES6
-    Components: Self-hosted fonts, schema.org Person JSON-LD, llms.txt
+    Components: Self-hosted fonts, SVG icon sprite (Unicons, Apache-2.0), schema.org Person JSON-LD, llms.txt
     Software: VS Code, Git, Vercel

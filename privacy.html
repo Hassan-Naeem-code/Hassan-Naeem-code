@@ -7,148 +7,138 @@
     <title>Privacy Policy — Hassan Naeem</title>
     <meta
       name="description"
-      content="Privacy policy for hassan-naeem.com — a personal portfolio that collects no data."
+      content="Privacy policy for hassan-naeem.com: what the portfolio and the hosted VitaLens and Emotion Modeling demos do with your data."
     />
     <meta name="robots" content="noindex, follow" />
     <meta name="theme-color" content="#0b0d17" />
     <link rel="canonical" href="https://hassan-naeem.com/privacy" />
 
-    <!-- Security / privacy -->
+    <!-- Security headers (CSP, frame-ancestors, nosniff, Permissions-Policy) are set in vercel.json -->
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <meta
-      http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';"
-    />
-    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
 
     <!-- Favicons -->
     <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.svg" />
     <link rel="icon" type="image/png" href="./assets/img/favicon.png" />
 
-    <!-- Icons (self-hosted) -->
-    <link rel="stylesheet" href="./assets/css/unicons.css" />
-
     <!-- Styles -->
-    <link rel="stylesheet" href="./assets/css/styles.css" />
-
-    <style>
-      .legal {
-        max-width: 760px;
-        margin: 0 auto;
-        padding: 7rem 1.5rem 5rem;
-      }
-      .legal h1 {
-        font-family: var(--font-display);
-        font-size: clamp(2rem, 5vw, 3rem);
-        font-weight: 700;
-        letter-spacing: -0.02em;
-        margin-bottom: 0.5rem;
-      }
-      .legal .legal__meta {
-        color: var(--fg-muted);
-        font-size: 0.9rem;
-        margin-bottom: 2.5rem;
-        font-family: var(--font-mono);
-      }
-      .legal h2 {
-        font-family: var(--font-display);
-        font-size: 1.3rem;
-        font-weight: 600;
-        margin: 2.2rem 0 0.75rem;
-      }
-      .legal p {
-        color: var(--fg-dim);
-        margin-bottom: 1rem;
-        line-height: 1.7;
-      }
-      .legal ul {
-        color: var(--fg-dim);
-        padding-left: 1.25rem;
-        margin-bottom: 1rem;
-      }
-      .legal li {
-        margin-bottom: 0.35rem;
-      }
-      .legal a {
-        color: var(--accent-2);
-        text-decoration: underline;
-        text-underline-offset: 3px;
-      }
-      .legal__back {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.4rem;
-        margin-bottom: 2rem;
-        color: var(--fg-dim);
-        font-size: 0.9rem;
-      }
-      .legal__back:hover {
-        color: var(--accent-2);
-      }
-    </style>
+    <link rel="stylesheet" href="./assets/css/styles.css?v=20261115" />
   </head>
   <body>
     <div class="bg-gradient"></div>
     <div class="bg-grid"></div>
 
     <main class="legal">
-      <a href="./index.html" class="legal__back">
-        <i class="uil uil-arrow-left" aria-hidden="true"></i> Back to portfolio
+      <a href="/" class="legal__back">
+        <svg class="icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-arrow-left"/></svg> Back to portfolio
       </a>
 
       <h1>Privacy Policy</h1>
-      <p class="legal__meta">Last updated: April 19, 2026</p>
+      <p class="legal__meta">Last updated: November 15, 2026</p>
 
       <p>
-        This site (<code>hassan-naeem.com</code>) is the personal
-        portfolio of Muhammad Hassan Naeem. It is a static website — there
-        is no backend, no database, no user accounts, no forms, no
-        analytics, and no tracking.
+        <code>hassan-naeem.com</code> is the personal portfolio of Muhammad
+        Hassan Naeem. This policy covers two parts of the domain separately:
+        the portfolio pages themselves, and the two live demos hosted under
+        <code>/vitalens</code> and <code>/emotion-modeling</code>.
       </p>
 
-      <h2>What I do not collect</h2>
+      <h2>The portfolio pages</h2>
+      <p>
+        The portfolio (<code>/</code>, <code>/privacy</code>, and the files
+        under <code>/assets</code>) is a static website. It has no backend,
+        database, accounts, forms, cookies, analytics, or tracking.
+      </p>
       <ul>
-        <li>Cookies (none are set)</li>
-        <li>Analytics or tracking pixels (none)</li>
-        <li>Personal information submitted through forms (there are no forms)</li>
-        <li>Email addresses, names, or any other identifiers</li>
+        <li>No cookies are set.</li>
+        <li>No analytics or tracking pixels are loaded.</li>
+        <li>There are no forms, so nothing you type is collected.</li>
+        <li>
+          All fonts, icons, stylesheets, and scripts are self-hosted. Your
+          browser does not contact any third-party server while loading
+          these pages.
+        </li>
       </ul>
 
-      <h2>What happens when you visit</h2>
+      <h2>The live demos</h2>
       <p>
-        The site is hosted on Vercel. Vercel, as the hosting provider,
-        processes standard server access logs (IP address, user-agent,
-        timestamp, requested path) for the purpose of delivering the site
-        and preventing abuse. These logs are governed by
-        <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">Vercel's own privacy policy</a>.
+        The two demos run on this domain but are separate applications.
+        Because they use your camera and some third-party services, they
+        work differently from the portfolio pages.
       </p>
 
-      <h2>Third-party resources</h2>
+      <h3>VitaLens (<code>/vitalens</code>)</h3>
+      <ul>
+        <li>
+          Camera video and all body, face, and hand tracking are processed
+          on your device. Video is never uploaded.
+        </li>
+        <li>
+          If you choose to send a photo for a health check, that photo is
+          sent to Anthropic's Claude API to generate an answer. VitaLens does
+          not store it. Anthropic processes it under
+          <a href="https://www.anthropic.com/legal/privacy" target="_blank" rel="noopener noreferrer">its own privacy policy</a>.
+        </li>
+        <li>
+          Your past health-check results are kept only in your browser's
+          local storage, and you can clear them at any time.
+        </li>
+        <li>
+          To prevent abuse, your IP address (or a value derived from it) is
+          used as a short-lived rate-limit key in Upstash Redis.
+        </li>
+        <li>
+          Anonymous performance measurements are collected with Vercel Speed
+          Insights and a first-party performance endpoint. They contain no
+          camera data or photos.
+        </li>
+        <li>
+          Model and anatomy files may be downloaded from Google Cloud Storage.
+        </li>
+      </ul>
+
+      <h3>Emotion Modeling (<code>/emotion-modeling</code>)</h3>
+      <ul>
+        <li>
+          Camera frames are analysed entirely in your browser by an ONNX
+          model. No frames leave your device.
+        </li>
+        <li>
+          To run, the demo downloads the ONNX Runtime and MediaPipe libraries
+          from the jsDelivr CDN and face-detection models from Google Cloud
+          Storage. Those providers receive standard request data, such as
+          your IP address and user-agent.
+        </li>
+      </ul>
+
+      <h2>Hosting</h2>
       <p>
-        All assets (icons, fonts, stylesheets, scripts) are self-hosted on
-        this domain. Your browser does not contact any third-party CDN
-        while loading this site.
+        The site and the demos are hosted on Vercel. As the hosting provider,
+        Vercel processes standard server access logs (IP address, user-agent,
+        timestamp, requested path) to deliver the site and prevent abuse.
+        These logs are governed by
+        <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">Vercel's own privacy policy</a>.
       </p>
 
       <h2>Your rights (GDPR / CCPA)</h2>
       <p>
-        Because I do not collect, store, or process personal data, there is
-        nothing to access, rectify, delete, or port. If you still have a
-        question, you can contact me using the links on the portfolio's
-        contact section.
+        I don't keep any personal data from the portfolio pages, and the
+        demos don't store your photos or camera data. Anything a demo keeps
+        in your browser can be removed by clearing this site's data. If you
+        have a question or a request, contact me through the links on the
+        portfolio's contact section.
       </p>
 
       <h2>Security</h2>
       <p>
-        The site is served over HTTPS, with HSTS preload, strict Content
-        Security Policy, Referrer-Policy, Permissions-Policy, and
-        X-Frame-Options headers to protect against clickjacking and other
-        browser-level attacks.
+        The site is served over HTTPS with HSTS preload. The portfolio pages
+        send a strict Content Security Policy, Referrer-Policy,
+        Permissions-Policy, and anti-framing headers. The demos send their
+        own security headers, tailored to their camera and WebAssembly needs.
       </p>
 
       <h2>Changes</h2>
       <p>
-        If this policy ever changes, the "Last updated" date above will be
+        If this policy changes, the "Last updated" date above will be
         revised.
       </p>
     </main>

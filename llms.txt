@@ -1,6 +1,6 @@
 # Hassan Naeem
 
-> AI/ML Engineer and Software Engineer at Ally Financial (contract, Detroit Metro, hybrid, since Aug 2026). 5+ years designing, building, and deploying production AI agents, LLM systems, RAG pipelines, and full-stack web and mobile apps. Based in Michigan, USA.
+> AI Engineer; Software Engineer at Ally Financial (contract, Detroit Metro, hybrid, since Aug 2026). 5+ years designing, building, and deploying production AI agents, LLM systems, RAG pipelines, and full-stack web and mobile apps. Based in Michigan, USA.
 
 ## Current role
 
@@ -8,6 +8,7 @@
 
 ## Experience
 
+- AI/ML Engineer, Independent / Freelance (Nov 2025 to present): agentic AI SaaS with multi-agent discovery and outreach automation on the Claude API and RAG; agentic systems on AWS Bedrock with FastAPI backends and VAPI.ai voice agents.
 - AI/ML Engineer (Contract), Peekly, AI real estate platform (Apr 2025 to Nov 2025): property recommendation engine with Vertex AI and the Claude API; React Native app with 3D/AR.
 - AI/ML Engineer (Contract), healthcare automation platform, stealth startup (Nov 2024 to Apr 2025): HIPAA-compliant clinical platform with AI prescription suggestions and real-time patient–doctor communication.
 - AI/ML & Frontend Engineer, Culturefy Inc. (Mar 2023 to Oct 2024): production AI agent platform (VAPI.ai, OpenAI, AWS Transcribe) for HR, scaled to 100K+ users.
@@ -32,7 +33,7 @@
 - [Fresh Leads](https://www.fresh-leads.io): live SaaS that verifies local business leads at search time and scores them against a buyer playbook. Next.js 15, TypeScript, Supabase, Stripe.
 - [VitaLens](https://hassan-naeem.com/vitalens): live webcam X-ray mirror; a rigged 3D anatomy atlas (BodyParts3D) follows MediaPipe body, face and hand tracking, with posture and joint angles, 9 languages and a Claude photo health check. Next.js 16, three.js, WebGL.
 - [Emotion Modeling](https://hassan-naeem.com/emotion-modeling): uncertainty-aware valence–arousal estimation with deep evidential regression and joint conformal prediction; in-browser ONNX demo ([code](https://github.com/Hassan-Naeem-code/Emotion-Modelling)).
-- [Neural-Engine](https://github.com/Hassan-Naeem-code/Neural-Engine): neural network and autograd engine in pure Python with lessons and an interactive guide.
+- [Neural-Engine](https://github.com/Hassan-Naeem-code/Neural-Engine): neural network and autograd engine in pure Python with lessons and an [interactive guide](https://hassan-naeem-code.github.io/Neural-Engine/guide.html).
 - [Cappy](https://github.com/Hassan-Naeem-code/Cappy-LLM-Intellegence-Layer): LLM intelligence layer with RAG, knowledge graphs, and LoRA fine-tuning.
 - [Browser Operating Agent](https://github.com/Hassan-Naeem-code/Browser-Operating-Agent): Playwright agent that reads canvas pixels and drives a browser like a human.
 - [AI Body Measurement](https://github.com/Hassan-Naeem-code/Body-Measurement): body measurements from one photo with MediaPipe for e-commerce sizing.
