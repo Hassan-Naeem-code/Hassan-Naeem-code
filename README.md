@@ -19,6 +19,8 @@
 <a href="https://hassan-naeem.com/assets/pdf/Hassan_Naeem_AI_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="https://leetcode.com/u/hassansolves"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://gist.github.com/Hassan-Naeem-code"><img src="https://img.shields.io/badge/Gists-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=61582604531729"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/thehassannaeem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
 
