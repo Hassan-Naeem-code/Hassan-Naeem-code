@@ -105,73 +105,100 @@
 
     <!-- Structured data: Person schema (Google rich results) -->
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "Hassan Naeem",
-        "alternateName": "Hassan Naeem",
-        "url": "https://hassan-naeem.com/",
-        "image": "https://hassan-naeem.com/assets/img/hassan-naeem.jpg",
-        "jobTitle": "Software Engineer",
-        "worksFor": {
-          "@type": "Organization",
-          "name": "Ally Financial",
-          "url": "https://www.ally.com"
-        },
-        "hasOccupation": {
-          "@type": "Occupation",
-          "name": "AI Engineer (AI Agents & LLM Systems)",
-          "occupationLocation": { "@type": "City", "name": "Detroit, MI" }
-        },
-        "description": "Hassan Naeem is an AI Engineer and Software Engineer at Ally Financial with 5+ years building production AI agents, LLM systems, RAG pipelines, and full-stack web and mobile apps with Python, FastAPI, AWS, React, and Next.js.",
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "MI",
-          "addressCountry": "US"
-        },
-        "alumniOf": [
-          {
-            "@type": "CollegeOrUniversity",
-            "name": "Concordia University Saint Paul",
-            "description": "M.S. Computer Science"
-          },
-          {
-            "@type": "CollegeOrUniversity",
-            "name": "Sir Syed University of Engineering & Technology",
-            "description": "B.S. Computer Science"
-          }
-        ],
-        "sameAs": [
-          "https://github.com/Hassan-Naeem-code",
-          "https://www.linkedin.com/in/m-hassan-naeem",
-          "https://leetcode.com/u/hassansolves",
-          "https://stackoverflow.com/users/17322639/muhammad-hassan-naeem",
-          "https://dev.to/hassannaeem"
-        ],
-        "knowsAbout": [
-          "JavaScript",
-          "TypeScript",
-          "Python",
-          "React",
-          "React Native",
-          "Next.js",
-          "Node.js",
-          "Django",
-          "Large Language Models",
-          "Generative AI",
-          "Agentic AI",
-          "Retrieval-Augmented Generation",
-          "AI Agents",
-          "Multi-Agent Orchestration",
-          "FastAPI",
-          "Amazon Web Services",
-          "AWS Bedrock",
-          "PyTorch",
-          "LangChain",
-          "Uncertainty Quantification",
-          "Machine Learning"
-        ]
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "https://hassan-naeem.com/",
+  "url": "https://hassan-naeem.com/",
+  "name": "Hassan Naeem — AI Engineer",
+  "dateModified": "2026-11-15",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Hassan Naeem",
+    "alternateName": [
+      "Muhammad Hassan Naeem",
+      "M. Hassan Naeem"
+    ],
+    "url": "https://hassan-naeem.com/",
+    "image": {
+      "@type": "ImageObject",
+      "@id": "https://hassan-naeem.com/#portrait",
+      "url": "https://hassan-naeem.com/assets/img/hassan-naeem.jpg",
+      "contentUrl": "https://hassan-naeem.com/assets/img/hassan-naeem.jpg",
+      "width": 800,
+      "height": 800,
+      "caption": "Hassan Naeem",
+      "creditText": "Hassan Naeem"
+    },
+    "jobTitle": "AI Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Ally Financial",
+      "url": "https://www.ally.com"
+    },
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "AI Engineer (AI Agents & LLM Systems)",
+      "occupationLocation": {
+        "@type": "City",
+        "name": "Detroit, MI"
       }
+    },
+    "description": "Hassan Naeem is an AI Engineer and Software Engineer at Ally Financial with 5+ years building production AI agents, LLM systems, RAG pipelines, and full-stack web and mobile apps with Python, FastAPI, AWS, React, and Next.js.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "MI",
+      "addressCountry": "US"
+    },
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Concordia University Saint Paul",
+        "description": "M.S. Computer Science"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Sir Syed University of Engineering & Technology",
+        "description": "B.S. Computer Science"
+      }
+    ],
+    "sameAs": [
+      "https://github.com/Hassan-Naeem-code",
+      "https://www.linkedin.com/in/m-hassan-naeem",
+      "https://leetcode.com/u/hassansolves",
+      "https://stackoverflow.com/users/17322639/muhammad-hassan-naeem",
+      "https://dev.to/hassannaeem",
+      "https://gist.github.com/Hassan-Naeem-code"
+    ],
+    "knowsAbout": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "React",
+      "React Native",
+      "Next.js",
+      "Node.js",
+      "Django",
+      "Large Language Models",
+      "Generative AI",
+      "Agentic AI",
+      "Retrieval-Augmented Generation",
+      "AI Agents",
+      "Multi-Agent Orchestration",
+      "FastAPI",
+      "Amazon Web Services",
+      "AWS Bedrock",
+      "PyTorch",
+      "LangChain",
+      "Uncertainty Quantification",
+      "Machine Learning"
+    ],
+    "@id": "https://hassan-naeem.com/#person",
+    "givenName": "Hassan",
+    "additionalName": "Muhammad",
+    "familyName": "Naeem"
+  }
+}
     </script>
   </head>
   <body>
@@ -352,7 +379,7 @@
               sizes="(max-width: 900px) 112px, 300px"
               width="480"
               height="480"
-              alt="Portrait of Hassan Naeem"
+              alt="Hassan Naeem, AI Engineer"
               fetchpriority="high"
               decoding="async"
             />
@@ -404,6 +431,7 @@
                 role="region"
                 aria-label="about.yaml"
               ><code><span class="code-key">name</span>: <span class="code-str">"Hassan Naeem"</span>
+<span class="code-key">full_name</span>: <span class="code-str">"Muhammad Hassan Naeem"</span>
 <span class="code-key">role</span>: <span class="code-str">"AI Engineer · Full-Stack Engineer"</span>
 <span class="code-key">location</span>: <span class="code-str">"Michigan, USA 🇺🇸 (open to relocation)"</span>
 <span class="code-key">experience</span>: <span class="code-num">5</span>+ years
