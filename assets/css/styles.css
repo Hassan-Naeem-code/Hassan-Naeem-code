@@ -1000,6 +1000,17 @@ button {
   font-size: 0.9rem;
   margin: 0;
 }
+.education__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.education__link:hover { color: var(--fg); }
 
 .project h3 {
   font-family: var(--font-display);
