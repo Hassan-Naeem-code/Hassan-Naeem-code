@@ -2,12 +2,6 @@
 <div align="center">
 
 <a href="https://hassan-naeem.com/">
-  <img src="https://hassan-naeem.com/assets/img/hassan-naeem-240.webp" width="140" height="140" alt="Hassan Naeem" />
-</a>
-
-<br>
-
-<a href="https://hassan-naeem.com/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;AI+Engineer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;LLMs+%7C+Agents+%7C+RAG" alt="Typing SVG" />
 </a>
 
