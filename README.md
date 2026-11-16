@@ -2,6 +2,12 @@
 <div align="center">
 
 <a href="https://hassan-naeem.com/">
+  <img src="https://hassan-naeem.com/assets/img/hassan-naeem-240.webp" width="140" height="140" alt="Hassan Naeem" />
+</a>
+
+<br>
+
+<a href="https://hassan-naeem.com/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan+Naeem;AI+Engineer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;LLMs+%7C+Agents+%7C+RAG" alt="Typing SVG" />
 </a>
 
@@ -156,6 +162,8 @@ ask_me_about: [LLMs, Agents, RAG, React Native, Python, TypeScript]
 
 #### 🎯 [Fresh Leads — Verified Local Business Leads](https://www.fresh-leads.io)
 
+<a href="https://www.fresh-leads.io"><img src="https://hassan-naeem.com/assets/img/projects/freshleads-640.webp" alt="Fresh Leads home page" width="100%" /></a>
+
 Live SaaS that finds local businesses, verifies phones & emails at search time, confirms they're still trading, and scores each one against a buyer playbook. Public API, Stripe billing, required 2FA, 571 passing tests. [Live site](https://www.fresh-leads.io).
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
@@ -164,6 +172,8 @@ Live SaaS that finds local businesses, verifies phones & emails at search time, 
 <td width="50%" valign="top">
 
 #### 🎭 [Emotion Modeling — Knowing When It Doesn't Know](https://github.com/Hassan-Naeem-code/Emotion-Modelling)
+
+<a href="https://hassan-naeem.com/emotion-modeling"><img src="https://hassan-naeem.com/assets/img/projects/emotion-640.webp" alt="Emotion Modeling demo page" width="100%" /></a>
 
 Valence–arousal estimation from faces that **reports its own uncertainty**. Deep evidential regression on AffectNet (5 seeds, **CCC 0.720**) with a joint conformal score that lifts true 2D coverage from ~85% to **92%** with tighter regions than Bonferroni. [**Live demo**](https://hassan-naeem.com/emotion-modeling) runs the ONNX model in your browser, abstains when unsure, and no frames leave the device.
 
@@ -176,6 +186,8 @@ Valence–arousal estimation from faces that **reports its own uncertainty**. De
 
 #### 🩻 [VitaLens — Live X-ray Mirror](https://hassan-naeem.com/vitalens)
 
+<a href="https://hassan-naeem.com/vitalens"><img src="https://hassan-naeem.com/assets/img/projects/vitalens-640.webp" alt="VitaLens landing page" width="100%" /></a>
+
 Point a webcam at yourself and see an anatomical **3D skeleton, organs and vessels** move with you in real time. About 1,200 BodyParts3D parts are rigged to MediaPipe pose, face and hand tracking, with a perspective-correct head fit, posture and joint-angle readings, a narrated tour and quiz in **9 languages**, and a Claude photo health check. Tracking runs in a Web Worker; nothing leaves the device except photos you choose to send. [**Try it live**](https://hassan-naeem.com/vitalens).
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -186,6 +198,8 @@ Point a webcam at yourself and see an anatomical **3D skeleton, organs and vesse
 <td colspan="2" valign="top">
 
 #### ⚙️ [Neural-Engine — Neural Networks from First Principles](https://github.com/Hassan-Naeem-code/Neural-Engine)
+
+<a href="https://hassan-naeem-code.github.io/Neural-Engine/guide.html"><img src="https://hassan-naeem.com/assets/img/projects/neural-640.webp" alt="Neural-Engine field guide" width="100%" /></a>
 
 A neural network and autograd engine in **~200 lines of pure Python, with no libraries**. A `Value` graph runs backprop through the chain rule, with `Neuron → Layer → MLP` on top, and trains a network to solve XOR. It ships with runnable lessons, gradient checks against numerical slopes, and an [**interactive visual guide**](https://hassan-naeem-code.github.io/Neural-Engine/guide.html): drag sliders on a neuron, roll a ball down the loss curve, step through backprop, and watch XOR being learned live.
 
@@ -237,6 +251,8 @@ Production FastAPI service for inbound carrier sales — FMCSA MC verification, 
 <td width="50%" valign="top">
 
 #### 📚 [CodeLikeBasics](https://github.com/Hassan-Naeem-code/Code-Like-Basics)
+
+<a href="https://code-like-basics.vercel.app"><img src="https://hassan-naeem.com/assets/img/projects/codelikebasics-640.webp" alt="CodeLikeBasics welcome screen" width="100%" /></a>
 
 Gamified learning platform for 43+ programming languages — XP, knowledge tree, achievements, live coding sandboxes. [Live demo](https://code-like-basics.vercel.app).
 

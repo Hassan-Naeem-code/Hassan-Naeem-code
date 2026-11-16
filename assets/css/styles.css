@@ -453,10 +453,34 @@ button {
 }
 
 .hero__container {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 3rem;
+}
+.hero__text {
   display: flex;
   flex-direction: column;
   gap: 1.6rem;
-  max-width: 900px;
+  max-width: 780px;
+  min-width: 0;
+}
+
+.hero__portrait {
+  position: relative;
+  width: clamp(220px, 24vw, 300px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  padding: 4px;
+  background: var(--gradient-text);
+  box-shadow: var(--shadow-glow);
+}
+.hero__portrait img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--bg-elev);
 }
 
 .hero__badge {
@@ -865,6 +889,27 @@ button {
 }
 .project:hover::before { opacity: 1; }
 
+.project__media {
+  width: calc(100% + 1.5rem);
+  max-width: none;
+  margin: -0.75rem -0.75rem 1.25rem;
+  aspect-ratio: 16 / 10;
+  height: auto;
+  object-fit: cover;
+  object-position: top;
+  border-radius: calc(var(--radius-md) - 4px);
+  border: 1px solid var(--border);
+  background: var(--bg-elev);
+}
+
+.project__metric {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--accent-2);
+  margin: -0.25rem 0 0.75rem;
+}
+.project p.project__metric { flex: 0; margin-bottom: 0.75rem; color: var(--accent-2); font-size: 0.78rem; }
+
 .project__head {
   display: flex;
   justify-content: space-between;
@@ -1136,6 +1181,9 @@ button {
   :root { --section-pad: 5rem; }
 
   .about__grid { grid-template-columns: 1fr; }
+
+  .hero__container { grid-template-columns: 1fr; gap: 1.5rem; }
+  .hero__portrait { order: -1; width: 112px; padding: 3px; }
 
   .nav__menu {
     visibility: hidden; /* keeps the closed menu out of tab order and the a11y tree */

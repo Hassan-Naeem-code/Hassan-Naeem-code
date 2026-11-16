@@ -35,7 +35,7 @@
       property="og:description"
       content="AI Engineer and Software Engineer at Ally Financial, building AI agents and LLM systems. Projects: VitaLens X-ray mirror, emotion modeling with uncertainty, Fresh Leads, Neural-Engine, and more."
     />
-    <meta property="og:image" content="https://hassan-naeem.com/preview.png?v=20261115" />
+    <meta property="og:image" content="https://hassan-naeem.com/preview.png?v=20261115b" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt" content="Hassan Naeem — AI Engineer portfolio preview" />
@@ -49,7 +49,7 @@
       name="twitter:description"
       content="AI Engineer and Software Engineer at Ally Financial, building AI agents and LLM systems. Projects: VitaLens X-ray mirror, emotion modeling with uncertainty, Fresh Leads, Neural-Engine, and more."
     />
-    <meta name="twitter:image" content="https://hassan-naeem.com/preview.png?v=20261115" />
+    <meta name="twitter:image" content="https://hassan-naeem.com/preview.png?v=20261115b" />
 
     <!-- Favicons -->
     <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.svg" />
@@ -64,7 +64,7 @@
     <link rel="preload" as="font" type="font/woff2" href="./assets/fonts/space-grotesk-700.woff2" crossorigin />
 
     <!-- Styles (bump ?v= when the file changes; assets are cached as immutable) -->
-    <link rel="stylesheet" href="./assets/css/styles.css?v=20261115" />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=20261115b" />
 
     <!-- Structured data: Person schema (Google rich results) -->
     <script type="application/ld+json">
@@ -74,7 +74,7 @@
         "name": "Hassan Naeem",
         "alternateName": "Hassan Naeem",
         "url": "https://hassan-naeem.com/",
-        "image": "https://hassan-naeem.com/assets/img/favicon.png",
+        "image": "https://hassan-naeem.com/assets/img/hassan-naeem.jpg",
         "jobTitle": "Software Engineer",
         "worksFor": {
           "@type": "Organization",
@@ -190,6 +190,7 @@
       <!-- ============ HERO ============ -->
       <section class="hero" id="home">
         <div class="hero__container container">
+          <div class="hero__text">
           <div class="hero__badge">
             <span class="hero__badge-dot"></span>
             Software Engineer @ Ally Financial · Building AI agents &amp; LLM systems
@@ -254,6 +255,19 @@
               aria-label="Email"
               ><svg class="icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-envelope"/></svg></a>
           </div>
+          </div>
+
+          <figure class="hero__portrait">
+            <img
+              src="./assets/img/hassan-naeem-480.webp"
+              srcset="./assets/img/hassan-naeem-240.webp 240w, ./assets/img/hassan-naeem-480.webp 480w"
+              sizes="(max-width: 900px) 112px, 300px"
+              width="480" height="480"
+              alt="Portrait of Hassan Naeem"
+              fetchpriority="high"
+              decoding="async"
+            />
+          </figure>
         </div>
 
         <div class="hero__marquee" aria-hidden="true">
@@ -574,8 +588,8 @@
                   Architected and deployed a production AI Agent system
                   integrating VAPI.ai LLM, HeyGen, AWS Transcribe, and OpenAI
                   APIs, enabling voice-command interactions, autonomous
-                  content generation, and real-time dashboard control.
-                  Designed agentic recruitment workflows with LLM-driven
+                  content generation, and real-time dashboard control,
+                  <strong>scaled to 100K+ users</strong>. Designed agentic recruitment workflows with LLM-driven
                   candidate ranking, interview-scheduling automation, and
                   offer-letter generation via BambooHR integration. Built a
                   GraphQL campaign-intelligence module with ML-driven
@@ -657,6 +671,16 @@
           <div class="projects__grid">
 
             <article class="project" data-reveal>
+              <img
+                class="project__media"
+                src="./assets/img/projects/vitalens-640.webp"
+                srcset="./assets/img/projects/vitalens-640.webp 640w, ./assets/img/projects/vitalens-1280.webp 1280w"
+                sizes="(max-width: 700px) 100vw, 380px"
+                width="1280" height="800"
+                alt="VitaLens landing page: a 3D skeleton and organs tracking a person in real time"
+                loading="lazy"
+                decoding="async"
+              />
               <div class="project__head">
                 <svg class="icon project__icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-user-md"/></svg>
                 <div class="project__links">
@@ -668,6 +692,7 @@
                 </div>
               </div>
               <h3>VitaLens · Live X-ray Mirror</h3>
+              <p class="project__metric">~1,200 rigged anatomy parts · 9 languages · on-device tracking</p>
               <p>
                 Point a webcam at yourself and see an anatomical
                 <strong>3D skeleton, organs and vessels</strong> move with you
@@ -687,6 +712,16 @@
             </article>
 
             <article class="project" data-reveal>
+              <img
+                class="project__media"
+                src="./assets/img/projects/emotion-640.webp"
+                srcset="./assets/img/projects/emotion-640.webp 640w, ./assets/img/projects/emotion-1280.webp 1280w"
+                sizes="(max-width: 700px) 100vw, 380px"
+                width="1280" height="800"
+                alt="Emotion Modeling demo page: face mesh with valence–arousal, pulse and blink readouts"
+                loading="lazy"
+                decoding="async"
+              />
               <div class="project__head">
                 <svg class="icon project__icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-smile"/></svg>
                 <div class="project__links">
@@ -703,6 +738,7 @@
                 </div>
               </div>
               <h3>Emotion Modeling · Knowing When It Doesn't Know</h3>
+              <p class="project__metric">CCC 0.720 · 92% 2D coverage · 5 seeds</p>
               <p>
                 Valence–arousal estimation from faces that
                 <strong>reports its own uncertainty</strong>. Deep evidential
@@ -719,6 +755,16 @@
               </div>
             </article>
             <article class="project" data-reveal>
+              <img
+                class="project__media"
+                src="./assets/img/projects/freshleads-640.webp"
+                srcset="./assets/img/projects/freshleads-640.webp 640w, ./assets/img/projects/freshleads-1280.webp 1280w"
+                sizes="(max-width: 700px) 100vw, 380px"
+                width="1280" height="800"
+                alt="Fresh Leads home page with industry and location lead search"
+                loading="lazy"
+                decoding="async"
+              />
               <div class="project__head">
                 <svg class="icon project__icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-crosshair"/></svg>
                 <div class="project__links">
@@ -730,6 +776,7 @@
                 </div>
               </div>
               <h3>Fresh Leads · Verified Local Leads</h3>
+              <p class="project__metric">Live SaaS · 571 passing tests · Stripe billing</p>
               <p>
                 A live SaaS that finds local businesses, verifies their phone
                 numbers and emails <strong>at search time</strong>, confirms
@@ -773,6 +820,16 @@
             </article>
 
             <article class="project" data-reveal>
+              <img
+                class="project__media"
+                src="./assets/img/projects/neural-640.webp"
+                srcset="./assets/img/projects/neural-640.webp 640w, ./assets/img/projects/neural-1280.webp 1280w"
+                sizes="(max-width: 700px) 100vw, 380px"
+                width="1280" height="800"
+                alt="Neural-Engine field guide: forward, loss, backward and update steps"
+                loading="lazy"
+                decoding="async"
+              />
               <div class="project__head">
                 <svg class="icon project__icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-processor"/></svg>
                 <div class="project__links">
@@ -789,6 +846,7 @@
                 </div>
               </div>
               <h3>Neural-Engine · From First Principles</h3>
+              <p class="project__metric">~200 lines of Python · zero dependencies</p>
               <p>
                 A neural network and <strong>autograd engine</strong> in
                 ~200 lines of pure Python with zero libraries. A
@@ -924,6 +982,16 @@
             </article>
 
             <article class="project" data-reveal>
+              <img
+                class="project__media"
+                src="./assets/img/projects/codelikebasics-640.webp"
+                srcset="./assets/img/projects/codelikebasics-640.webp 640w, ./assets/img/projects/codelikebasics-1280.webp 1280w"
+                sizes="(max-width: 700px) 100vw, 380px"
+                width="1280" height="800"
+                alt="CodeLikeBasics welcome screen for new and returning learners"
+                loading="lazy"
+                decoding="async"
+              />
               <div class="project__head">
                 <svg class="icon project__icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-book-open"/></svg>
                 <div class="project__links">
@@ -940,6 +1008,7 @@
                 </div>
               </div>
               <h3>CodeLikeBasics</h3>
+              <p class="project__metric">43+ programming languages · gamified</p>
               <p>
                 An interactive, gamified learning platform where beginners
                 master programming through tutorials, quiz games, and
@@ -1262,6 +1331,6 @@
       <svg class="icon" aria-hidden="true"><use href="/assets/img/icons.svg?v=20261115#i-arrow-up"/></svg>
     </a>
 
-    <script src="./assets/js/main.js?v=20261115"></script>
+    <script src="./assets/js/main.js?v=20261115b"></script>
   </body>
 </html>
