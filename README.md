@@ -227,7 +227,7 @@ A Python agent that drives its own browser — no DOM shortcuts. Nested iframe t
 
 #### 🚚 [HappyRobot Inbound Carrier Sales](https://github.com/Hassan-Naeem-code/Inbound-Carier-Sales)
 
-Production FastAPI service for inbound carrier sales — FMCSA MC verification, negotiation logging. [Deployed on Fly.io](https://happyrobot-inbound.fly.dev/).
+Production FastAPI service for inbound carrier sales — FMCSA MC verification, negotiation logging.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
