@@ -1126,7 +1126,8 @@ button {
 }
 .footer__copy a {
   color: var(--fg-dim);
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 3px;
   transition: color 0.2s var(--ease);
 }
 .footer__copy a:hover {
