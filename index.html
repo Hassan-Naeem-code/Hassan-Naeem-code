@@ -32,10 +32,10 @@
     <!-- Security headers (CSP, frame-ancestors, nosniff, Permissions-Policy) are set in vercel.json -->
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <!-- Marks JS as available so reveal animations only hide content when they can run.
-         Its sha256 is allow-listed in the CSP in vercel.json; update the hash if you edit it. -->
-    <script>
-      document.documentElement.classList.add("js");
-    </script>
+         Its sha256 is allow-listed in the CSP in vercel.json; update the hash if you edit it
+         (the prettier-formatted variant's hash is allow-listed too). -->
+    <!-- prettier-ignore -->
+    <script>document.documentElement.classList.add('js')</script>
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
